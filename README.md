@@ -52,7 +52,7 @@
 
 ---
 
-## **🎯 Metas 2024**
+## **🎯 Metas 2025**
 
 <div align="center">
   
