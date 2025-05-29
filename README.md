@@ -86,27 +86,3 @@
   
   "O código é minha poesia digital" ✍️💻
 </div>
-```
-
-### **🎨 Recursos Visuais Adicionados:**
-1. **Banner animado** no cabeçalho
-2. **Bloco de código** simulando sua jornada
-3. **Ícones interativos** usando Skill Icons
-4. **Gráfico de progresso** visual para metas
-5. **Estatísticas GitHub** integradas
-6. **Botões de contato** destacados
-7. **Divisores temáticos** personalizados
-8. **Rodapé animado** com onda digital
-9. **Paleta de cores vibrante** (roxo/azul/rosa)
-
-### **💡 Dicas Extras:**
-1. Crie um repositório GitHub com esse nome (`IgorSantosDev`)
-2. Adicione imagens na pasta `/assets` para personalizar
-3. Atualize os links do LinkedIn quando criar seu perfil
-4. Use o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) para stats reais
-
-Quer que eu ajuste algo específico? Posso adicionar:
-- Seção de projetos
-- Timeline de aprendizado
-- Certificados
-- Redes sociais adicionais
